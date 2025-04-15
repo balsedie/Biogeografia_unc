@@ -1,4 +1,4 @@
-ID_censo,Estacion,grupo,ppanual,Tmed,longitud,Cobertura_total,Altura_promedio_cm,Altura_máxima_cm,Riqueza_de_lenosas,Riqueza_de_cactaceas,Riqueza_total,Aspi_qbl,Buln_ret,Capp_ata,Geof_dec,Larr_cun,Larr_div,Mymo_car,Pros_fle,Pros_tor
+ID_censo,Estacion,grupo,ppanual,Tmed,longitud,Cobertura_total,Altura_promedio_cm,Altura_maxima_cm,Riqueza_de_lenosas,Riqueza_de_cactaceas,Riqueza_total,Aspi_qbl,Buln_ret,Capp_ata,Geof_dec,Larr_cun,Larr_div,Mymo_car,Pros_fle,Pros_tor
 E1_g1,Estación_01,Grupo_1,593,15.93,-64.681215,100,300,600,11,1,12,15,0,30,0,0,25,5,0,0
 E1_g10,Estación_01,Grupo_10,593,15.93,-64.681215,85,400,800,6,0,6,30,0,0,0,0,10,0,0,0
 E1_g11,Estación_01,Grupo_11,593,15.93,-64.681215,98,350,600,8,1,9,25,0,35,0,0,40,0,0,30
